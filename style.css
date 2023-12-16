@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space -between;
+}
+ul{
+    display: flex;
+    list-style: none ;
+    gap: 25px;
+}
+h1{
+    font-size: 88px;
+    width: 800px;
+}
+p{
+    width: 400px;
+}
+.line{
+    border-bottom: 2px solid orange;
+}
+ss
